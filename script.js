@@ -1,4 +1,4 @@
-const btn = document.querySelector("#btn");
+const btn = document.getElementById("btn");
 btn.addEventListener("click", notification);
 
 function notification() {
